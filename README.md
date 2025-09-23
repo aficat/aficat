@@ -1,5 +1,6 @@
 # 💫 Hey I'm Afi!
-a thoughtful problem solver shaping ecosystems that reduce friction, accelerate workflows, and increase engagement <br/><br/>
+A thoughtful problem solver shaping ecosystems that reduce friction, accelerate workflows and spark meaningful engagement.<br/>
+I thrive at the intersection of design and tech. With a background in architecture and Information Systems, I love turning complex challenges into solutions that work beautifully — balancing user needs with practical implementation.<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afiqahrshd) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5A5F.svg?logo=framer&logoColor=white)](https://afiqahrashid.framer.ai/)
 
